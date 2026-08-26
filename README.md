@@ -1,248 +1,215 @@
-<div align="center">
+<div align="center"> <br> 
+# <strong>NIRBHAY SINGH CHAUHAN</strong>
+### <strong>ROBOTICS & AI ENGINEERING · 3RD YEAR</strong>
+<br> <img src="./assets/binary-portrait.png" width="100%" alt="Binary portrait of Nirbhay Singh Chauhan"> <br> 
+<code><strong>01001001 01001110 01001001 01010100 01001001 01000001 01001100 
+01001001 01011010 01001001 01001110 01000111 00101110 00101110 00101110</strong></code>
+ 
+> <strong>SYSTEM: NIRBHAY_SINGH_CHAUHAN</strong> 
+> <strong>FIELD: ROBOTICS + ARTIFICIAL INTELLIGENCE</strong> 
+> <strong>STATUS: BUILDING</strong> 
+> <strong>MODE: EXPLORE → EXPERIMENT → UNDERSTAND → BUILD</strong>
+ 
+<br> </div> 
 
-# ⚡ NIRBHAY SINGH CHAUHAN
+<table> <tr> <td width="58%" valign="top"> 
 
-### 🤖 ROBOTICS & AI ENGINEERING · 3RD YEAR
+# <strong>PROFILE</strong>
+ 
+<strong>I'm Nirbhay Singh Chauhan, a third-year Robotics and AI Engineering student with a strong curiosity for technology and problem-solving.</strong>
+ 
+<strong>I enjoy working on things that genuinely interest me — especially when they challenge me to learn something new or build something meaningful.</strong>
+ 
+<strong>I believe my best work comes from curiosity, experimentation, and the freedom to explore ideas that excite me.</strong>
+ 
+</td> <td width="42%" valign="top"> 
 
-<p>
-  <strong>BUILDING SYSTEMS. EXPERIMENTING WITH IDEAS. TURNING CURIOSITY INTO ENGINEERING.</strong>
-</p>
+# <strong>CURRENT STATUS</strong>
+ 
+<strong>FIELD</strong>
+ 
+<strong>Robotics & AI Engineering</strong>
+ 
+<strong>YEAR</strong>
+ 
+<strong>Third Year</strong>
+ 
+<strong>FOCUS</strong>
+ 
+<strong>Robotics · AI · Software</strong>
+ 
+<strong>APPROACH</strong>
+ 
+<strong>Curiosity → Experiment → Learn → Build</strong>
+ 
+</td> </tr> </table> 
 
-<img src="./assets/binary-portrait.png" width="100%" alt="Binary portrait of Nirbhay Singh Chauhan">
+# <strong>ENGINEERING STACK</strong>
 
-<br>
+## <strong>PROGRAMMING</strong>
 
-<code>
-01001001 01001110 01001001 01010100 01001001 01000001 01001100
-</code>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## <strong>ROBOTICS & AI</strong>
 
-<br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## <strong>SOFTWARE & DEVELOPMENT</strong>
 
-<code>
-01001001 01011010 01001001 01001110 01000111 00101110 00101110 00101110
-</code>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## <strong>CLOUD & DATA</strong>
 
-<br><br>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+## <strong>TOOLS & CREATIVE</strong>
 
-<table>
-<tr>
-<td align="center">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<table> <tr> <td width="50%" valign="top"> 
 
-<strong>🧠 SYSTEM</strong><br>
-NIRBHAY_SINGH_CHAUHAN
+# <strong>LANGUAGE PROFILE</strong>
+<br> 
+ 
+<strong>HTML</strong>
 
-</td>
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
-<td align="center">
+<strong>CSS</strong>
 
-<strong>🤖 FIELD</strong><br>
-ROBOTICS + ARTIFICIAL INTELLIGENCE
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
-</td>
+<strong>C++</strong>
 
-<td align="center">
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
-<strong>⚙️ STATUS</strong><br>
-BUILDING MODE
+<strong>Python</strong>
 
-</td>
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
 
-<td align="center">
+<strong>Java</strong>
 
-<strong>🚀 MODE</strong><br>
-EXPLORE → EXPERIMENT → UNDERSTAND → BUILD
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 
-</td>
-</tr>
-</table>
+<strong>JavaScript</strong>
 
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
+
+<strong>C</strong>
+
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+<strong>C#</strong>
+
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
+
+</td> <td width="50%" valign="top"> 
+
+# <strong>HOW I WORK</strong>
+<br> 
+ 
+<strong>I don't particularly enjoy working on something simply because it's expected.</strong>
+ 
+<strong>I'm most productive when a problem is interesting enough to make me curious.</strong>
+ 
+<strong>That curiosity usually turns into:</strong>
+ 
+<br> 
+<strong>01 — EXPLORE</strong>
+ 
+<strong>Understand the idea and figure out what makes it interesting.</strong>
+ 
+<strong>02 — EXPERIMENT</strong>
+ 
+<strong>Try things, test ideas and learn from what doesn't work.</strong>
+ 
+<strong>03 — UNDERSTAND</strong>
+ 
+<strong>Go deeper into the parts that actually matter.</strong>
+ 
+<strong>04 — BUILD</strong>
+ 
+<strong>Turn the interesting idea into something real.</strong>
+ 
+</td> </tr> </table> 
+
+# <strong>TECHNOLOGY MAP</strong>
+
+<div align="center"> 
+
+<strong>AREA</strong> | <strong>TECHNOLOGIES</strong>
+---|---
+<strong>Programming</strong> | <strong>C · C# · C++ · Java · Python · JavaScript</strong>
+<strong>Web</strong> | <strong>HTML · CSS · React · Node.js</strong>
+<strong>Robotics</strong> | <strong>ROS · Raspberry Pi</strong>
+<strong>AI / ML</strong> | <strong>PyTorch · TensorFlow · Keras · Scikit-learn</strong>
+<strong>Data</strong> | <strong>NumPy · Pandas · Matplotlib · Plotly</strong>
+<strong>Cloud</strong> | <strong>AWS · Azure · Oracle · Vercel · Render</strong>
+<strong>Database</strong> | <strong>MySQL · SQLite · Supabase</strong>
+<strong>Development</strong> | <strong>Docker · GitHub · Apache</strong>
+<strong>Creative</strong> | <strong>Blender · Adobe · Canva · Power BI</strong>
+<strong>Game / 3D</strong> | <strong>Unreal Engine · Epic Games · Steam · Ubisoft</strong>
+
+</div> 
+
+<div align="center"> <br> 
+
+┌──────────────────────────────────────────────────────────┐ 
+│                                                          │ 
+│   <strong>CURIOSITY IS THE INPUT</strong>                                 │ 
+│                                                          │ 
+│   <strong>EXPERIMENTATION IS THE PROCESS</strong>                         │ 
+│                                                          │ 
+│   <strong>UNDERSTANDING IS THE OUTPUT</strong>                            │ 
+│                                                          │ 
+│   <strong>BUILD WHAT INTERESTS YOU.</strong>                              │ 
+│                                                          │ 
+└──────────────────────────────────────────────────────────┘ 
+ 
+<br> 
+<i><strong>Curiosity is usually where the interesting projects begin.</strong></i>
+ 
+<br><br> 
+ 
 </div>
-
----
-
-# 👋 ABOUT ME
-
-<table>
-<tr>
-
-<td width="62%" valign="top">
-
-## 🧠 WHO I AM
-
-**I'm Nirbhay Singh Chauhan — a third-year Robotics & AI Engineering student fascinated by the intersection of intelligent software, robotics, automation and real-world problem solving.**
-
-I enjoy building things that **force me to learn something new**.
-
-Rather than following technology simply because it is popular, I prefer exploring ideas that genuinely make me curious — then experimenting, breaking things, understanding why they failed, and building a better version.
-
-### ⚡ My mindset
-
-> **Curiosity creates the question.**  
-> **Experimentation creates the experience.**  
-> **Understanding creates the skill.**  
-> **Building creates the result.**
-
-I'm particularly interested in projects where **software meets the physical world** — robotics, AI, automation, embedded systems and intelligent applications.
-
-</td>
-
-<td width="38%" valign="top">
-
-## 📡 CURRENT STATUS
-
-**🎓 FIELD**
-
-Robotics & AI Engineering
-
-**📚 YEAR**
-
-Third Year
-
-**🧩 FOCUS**
-
-Robotics · AI · Software
-
-**🔬 INTERESTS**
-
-Automation · Computer Vision · Machine Learning · Intelligent Systems
-
-**⚙️ APPROACH**
-
-Curiosity → Experiment → Learn → Build
-
-**🚀 CURRENT MODE**
-
-BUILDING
-
-</td>
-
-</tr>
-</table>
-
----
-
-# ⚙️ ENGINEERING STACK
-
-<div align="center">
-
-### 💻 PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js" />
-
-### 🌐 SOFTWARE & DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,vite,docker,git,github" />
-
-### 🤖 ROBOTICS & AI
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,ros,arduino,raspberrypi" />
-
-### ☁️ CLOUD & DATA
-
-<img src="https://skillicons.dev/icons?i=aws,azure,mysql,sqlite,supabase" />
-
-### 🛠️ TOOLS & CREATIVE
-
-<img src="https://skillicons.dev/icons?i=blender,figma,canva,matlab" />
-
-</div>
-
----
-
-# 📊 LANGUAGE PROFILE
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 💻 LANGUAGES
-
-| Language | Experience |
-|---|---|
-| **HTML** | ██████████ 100% |
-| **CSS** | ██████████ 100% |
-| **C++** | ██████████ 100% |
-| **Python** | ███████░░░ 70% |
-| **JavaScript** | ████████░░ 80% |
-| **Java** | ████████░░ 80% |
-| **C#** | ██████░░░░ 60% |
-| **C** | █████░░░░░ 50% |
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 HOW I WORK
-
-**01 — EXPLORE**
-
-I start by understanding the problem and discovering what makes it interesting.
-
-**02 — EXPERIMENT**
-
-I build small experiments, test ideas and learn from things that don't work.
-
-**03 — UNDERSTAND**
-
-I go deeper into the concepts that actually matter instead of blindly copying solutions.
-
-**04 — BUILD**
-
-I turn what I've learned into something functional, useful and real.
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🗺️ TECHNOLOGY MAP
-
-| AREA | TECHNOLOGIES |
-|---|---|
-| **Programming** | C · C++ · C# · Java · Python · JavaScript |
-| **Web** | HTML · CSS · React · Node.js · Vite |
-| **Robotics** | ROS · Arduino · Raspberry Pi |
-| **AI / ML** | PyTorch · TensorFlow · Keras · OpenCV · Scikit-learn |
-| **Data** | NumPy · Pandas · Matplotlib · Plotly |
-| **Cloud** | AWS · Azure · Oracle · Vercel · Render |
-| **Database** | MySQL · SQLite · Supabase |
-| **Development** | Docker · Git · GitHub · Apache |
-| **Creative** | Blender · Adobe · Canva · Power BI |
-| **Game / 3D** | Unreal Engine · Epic Games · Steam · Ubisoft |
-
----
-
-# 🔬 WHAT I LIKE BUILDING
-
-<div align="center">
-
-| 🤖 ROBOTICS | 🧠 ARTIFICIAL INTELLIGENCE | 💻 SOFTWARE |
-|:---:|:---:|:---:|
-| Autonomous Systems | Machine Learning | Web Applications |
-| Embedded Systems | Computer Vision | AI Applications |
-| Automation | Intelligent Systems | Backend Systems |
-| Sensors & Actuators | Data Analysis | APIs & Cloud |
-
-</div>
-
----
-
-# 🧪 ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│              CURIOSITY IS THE INPUT                     │
-│                                                          │
-│          EXPERIMENTATION IS THE PROCESS                 │
-│                                                          │
-│           UNDERSTANDING IS THE OUTPUT                   │
-│                                                          │
-│             BUILD WHAT INTERESTS YOU.                   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
