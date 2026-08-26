@@ -173,22 +173,24 @@ Creative	Blender · Adobe · Canva · Power BI
 Game / 3D	Unreal Engine · Epic Games · Steam · Ubisoft
 </div>
 <div align="center"> <br>
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   CURIOSITY IS THE INPUT                                 │
-│                                                          │
-│   EXPERIMENTATION IS THE PROCESS                         │
-│                                                          │
-│   UNDERSTANDING IS THE OUTPUT                            │
-│                                                          │
-│   BUILD WHAT INTERESTS YOU.                              │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+┌<div align="center">
+
+<strong>CURIOSITY IS THE INPUT</strong>
 
 <br>
-<i>Curiosity is usually where the interesting projects begin.</i>
+
+<strong>EXPERIMENTATION IS THE PROCESS</strong>
+
+<br>
+
+<strong>UNDERSTANDING IS THE OUTPUT</strong>
+
+<br>
+
+<strong>BUILD WHAT INTERESTS YOU.</strong>
 
 <br><br>
 
+<i>Curiosity is usually where the interesting projects begin.</i>
+
 </div>
-also info and intro make it bold should look standout
