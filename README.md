@@ -195,21 +195,34 @@
 
 <div align="center"> <br> 
 
-┌──────────────────────────────────────────────────────────┐ 
-│                                                          │ 
-│   <strong>CURIOSITY IS THE INPUT</strong>                                 │ 
-│                                                          │ 
-│   <strong>EXPERIMENTATION IS THE PROCESS</strong>                         │ 
-│                                                          │ 
-│   <strong>UNDERSTANDING IS THE OUTPUT</strong>                            │ 
-│                                                          │ 
-│   <strong>BUILD WHAT INTERESTS YOU.</strong>                              │ 
-│                                                          │ 
-└──────────────────────────────────────────────────────────┘ 
- 
-<br> 
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<strong>⚡ CURIOSITY IS THE INPUT ⚡</strong>
+
+<br>
+
+<strong>EXPERIMENTATION IS THE PROCESS</strong>
+
+<br>
+
+<strong>UNDERSTANDING IS THE OUTPUT</strong>
+
+<br>
+
+<strong>BUILD WHAT INTERESTS YOU.</strong>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <i><strong>Curiosity is usually where the interesting projects begin.</strong></i>
- 
-<br><br> 
- 
+
+<br><br>
+
 </div>
