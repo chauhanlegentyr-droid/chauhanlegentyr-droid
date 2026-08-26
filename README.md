@@ -1,228 +1,194 @@
-<div align="center"> <br> 
-# <strong>NIRBHAY SINGH CHAUHAN</strong>
-### <strong>ROBOTICS & AI ENGINEERING · 3RD YEAR</strong>
-<br> <img src="./assets/binary-portrait.png" width="100%" alt="Binary portrait of Nirbhay Singh Chauhan"> <br> 
-<code><strong>01001001 01001110 01001001 01010100 01001001 01000001 01001100 
-01001001 01011010 01001001 01001110 01000111 00101110 00101110 00101110</strong></code>
- 
-> <strong>SYSTEM: NIRBHAY_SINGH_CHAUHAN</strong> 
-> <strong>FIELD: ROBOTICS + ARTIFICIAL INTELLIGENCE</strong> 
-> <strong>STATUS: BUILDING</strong> 
-> <strong>MODE: EXPLORE → EXPERIMENT → UNDERSTAND → BUILD</strong>
- 
-<br> </div> 
+<div align="center"> <br>
+NIRBHAY SINGH CHAUHAN
+ROBOTICS & AI ENGINEERING · 3RD YEAR
+<br> <img src="./assets/binary-portrait.png" width="100%" alt="Binary portrait of Nirbhay Singh Chauhan"> <br>
+01001001 01001110 01001001 01010100 01001001 01000001 01001100
+01001001 01011010 01001001 01001110 01000111 00101110 00101110 00101110
 
-<table> <tr> <td width="58%" valign="top"> 
+> SYSTEM: NIRBHAY_SINGH_CHAUHAN
+> FIELD:  ROBOTICS + ARTIFICIAL INTELLIGENCE
+> STATUS: BUILDING
+> MODE:   EXPLORE → EXPERIMENT → UNDERSTAND → BUILD
 
-# <strong>PROFILE</strong>
- 
-<strong>I'm Nirbhay Singh Chauhan, a third-year Robotics and AI Engineering student with a strong curiosity for technology and problem-solving.</strong>
- 
-<strong>I enjoy working on things that genuinely interest me — especially when they challenge me to learn something new or build something meaningful.</strong>
- 
-<strong>I believe my best work comes from curiosity, experimentation, and the freedom to explore ideas that excite me.</strong>
- 
-</td> <td width="42%" valign="top"> 
+<br> </div>
+<table> <tr> <td width="58%" valign="top">
+PROFILE
 
-# <strong>CURRENT STATUS</strong>
- 
-<strong>FIELD</strong>
- 
-<strong>Robotics & AI Engineering</strong>
- 
-<strong>YEAR</strong>
- 
-<strong>Third Year</strong>
- 
-<strong>FOCUS</strong>
- 
-<strong>Robotics · AI · Software</strong>
- 
-<strong>APPROACH</strong>
- 
-<strong>Curiosity → Experiment → Learn → Build</strong>
- 
-</td> </tr> </table> 
+I'm Nirbhay Singh Chauhan, a third-year Robotics and AI Engineering student with a strong curiosity for technology and problem-solving.
 
-# <strong>ENGINEERING STACK</strong>
+I enjoy working on things that genuinely interest me — especially when they challenge me to learn something new or build something meaningful.
 
-## <strong>PROGRAMMING</strong>
+I believe my best work comes from curiosity, experimentation, and the freedom to explore ideas that excite me.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-## <strong>ROBOTICS & AI</strong>
+</td> <td width="42%" valign="top">
+CURRENT STATUS
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-## <strong>SOFTWARE & DEVELOPMENT</strong>
+FIELD
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-## <strong>CLOUD & DATA</strong>
+Robotics & AI Engineering
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-## <strong>TOOLS & CREATIVE</strong>
+YEAR
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-<table> <tr> <td width="50%" valign="top"> 
+Third Year
 
-# <strong>LANGUAGE PROFILE</strong>
-<br> 
- 
-<strong>HTML</strong>
+FOCUS
+
+Robotics · AI · Software
+
+APPROACH
+
+Curiosity → Experiment → Learn → Build
+
+</td> </tr> </table>
+ENGINEERING STACK
+PROGRAMMING
+
+
+
+
+
+
+
+
+
+
+
+ROBOTICS & AI
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE & DEVELOPMENT
+
+
+
+
+
+
+
+CLOUD & DATA
+
+
+
+
+
+
+
+
+
+
+TOOLS & CREATIVE
+
+
+
+
+
+
+
+
+
+<table> <tr> <td width="50%" valign="top">
+LANGUAGE PROFILE
+<br>
+
+HTML
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
-<strong>CSS</strong>
+CSS
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
-<strong>C++</strong>
+C++
 
 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
-<strong>Python</strong>
+Python
 
 🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
 
-<strong>Java</strong>
+Java
 
 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 
-<strong>JavaScript</strong>
+JavaScript
 
 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
 
-<strong>C</strong>
+C
 
 ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-<strong>C#</strong>
+C#
 
 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 
-</td> <td width="50%" valign="top"> 
+</td> <td width="50%" valign="top">
+HOW I WORK
+<br>
 
-# <strong>HOW I WORK</strong>
-<br> 
- 
-<strong>I don't particularly enjoy working on something simply because it's expected.</strong>
- 
-<strong>I'm most productive when a problem is interesting enough to make me curious.</strong>
- 
-<strong>That curiosity usually turns into:</strong>
- 
-<br> 
-<strong>01 — EXPLORE</strong>
- 
-<strong>Understand the idea and figure out what makes it interesting.</strong>
- 
-<strong>02 — EXPERIMENT</strong>
- 
-<strong>Try things, test ideas and learn from what doesn't work.</strong>
- 
-<strong>03 — UNDERSTAND</strong>
- 
-<strong>Go deeper into the parts that actually matter.</strong>
- 
-<strong>04 — BUILD</strong>
- 
-<strong>Turn the interesting idea into something real.</strong>
- 
-</td> </tr> </table> 
+I don't particularly enjoy working on something simply because it's expected.
 
-# <strong>TECHNOLOGY MAP</strong>
+I'm most productive when a problem is interesting enough to make me curious.
 
-<div align="center"> 
+That curiosity usually turns into:
 
-<strong>AREA</strong> | <strong>TECHNOLOGIES</strong>
----|---
-<strong>Programming</strong> | <strong>C · C# · C++ · Java · Python · JavaScript</strong>
-<strong>Web</strong> | <strong>HTML · CSS · React · Node.js</strong>
-<strong>Robotics</strong> | <strong>ROS · Raspberry Pi</strong>
-<strong>AI / ML</strong> | <strong>PyTorch · TensorFlow · Keras · Scikit-learn</strong>
-<strong>Data</strong> | <strong>NumPy · Pandas · Matplotlib · Plotly</strong>
-<strong>Cloud</strong> | <strong>AWS · Azure · Oracle · Vercel · Render</strong>
-<strong>Database</strong> | <strong>MySQL · SQLite · Supabase</strong>
-<strong>Development</strong> | <strong>Docker · GitHub · Apache</strong>
-<strong>Creative</strong> | <strong>Blender · Adobe · Canva · Power BI</strong>
-<strong>Game / 3D</strong> | <strong>Unreal Engine · Epic Games · Steam · Ubisoft</strong>
+<br>
+01 — EXPLORE
 
-</div> 
+Understand the idea and figure out what makes it interesting.
 
-<div align="center"> <br> 
+02 — EXPERIMENT
 
+Try things, test ideas and learn from what doesn't work.
+
+03 — UNDERSTAND
+
+Go deeper into the parts that actually matter.
+
+04 — BUILD
+
+Turn the interesting idea into something real.
+
+</td> </tr> </table>
+TECHNOLOGY MAP
 <div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<strong>⚡ CURIOSITY IS THE INPUT ⚡</strong>
+AREA	TECHNOLOGIES
+Programming	C · C# · C++ · Java · Python · JavaScript
+Web	HTML · CSS · React · Node.js
+Robotics	ROS · Raspberry Pi
+AI / ML	PyTorch · TensorFlow · Keras · Scikit-learn
+Data	NumPy · Pandas · Matplotlib · Plotly
+Cloud	AWS · Azure · Oracle · Vercel · Render
+Database	MySQL · SQLite · Supabase
+Development	Docker · GitHub · Apache
+Creative	Blender · Adobe · Canva · Power BI
+Game / 3D	Unreal Engine · Epic Games · Steam · Ubisoft
+</div>
+<div align="center"> <br>
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   CURIOSITY IS THE INPUT                                 │
+│                                                          │
+│   EXPERIMENTATION IS THE PROCESS                         │
+│                                                          │
+│   UNDERSTANDING IS THE OUTPUT                            │
+│                                                          │
+│   BUILD WHAT INTERESTS YOU.                              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
 <br>
-
-<strong>EXPERIMENTATION IS THE PROCESS</strong>
-
-<br>
-
-<strong>UNDERSTANDING IS THE OUTPUT</strong>
-
-<br>
-
-<strong>BUILD WHAT INTERESTS YOU.</strong>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<i><strong>Curiosity is usually where the interesting projects begin.</strong></i>
+<i>Curiosity is usually where the interesting projects begin.</i>
 
 <br><br>
 
 </div>
+also info and intro make it bold should look standout
