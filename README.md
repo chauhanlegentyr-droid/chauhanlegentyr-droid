@@ -8,12 +8,6 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/nirbhaysingh-chauhan-19b103331">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
 </div>
 
 ---
@@ -126,35 +120,45 @@ Curiosity → Experiment → Learn → Build
 
 <br>
 
-**C**
+**HTML**
 
-`████████████████████`
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
+
+**CSS**
+
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 **C++**
 
-`████████████████████`
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥
 
 **Python**
 
-`████████████████████`
+🟦🟦🟦🟦🟦🟦🟦⬜⬜⬜
 
 **Java**
 
-`████████████████████`
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜
 
 **JavaScript**
 
-`████████████████████`
+🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜
 
-**HTML / CSS**
+**C**
 
-`████████████████████`
+⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+
+**C#**
+
+🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜
 
 </td>
 
 <td width="50%" valign="top">
 
 ## HOW I WORK
+
+<br>
 
 I don't particularly enjoy working on something simply because it's expected.
 
@@ -164,19 +168,21 @@ That curiosity usually turns into:
 
 <br>
 
-**EXPLORE**
+### 01 — EXPLORE
 
-↓
+Understand the idea and figure out what makes it interesting.
 
-**EXPERIMENT**
+### 02 — EXPERIMENT
 
-↓
+Try things, test ideas and learn from what doesn't work.
 
-**UNDERSTAND**
+### 03 — UNDERSTAND
 
-↓
+Go deeper into the parts that actually matter.
 
-**BUILD**
+### 04 — BUILD
+
+Turn the interesting idea into something real.
 
 </td>
 
@@ -214,8 +220,8 @@ That curiosity usually turns into:
 
 <br>
 
-<i><font size="4">Curiosity is usually where the interesting projects begin.</font></i>
+### <i>Curiosity is usually where the interesting projects begin.</i>
 
-<br><br><br>
+<br><br>
 
 </div>
