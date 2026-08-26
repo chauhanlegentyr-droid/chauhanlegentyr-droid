@@ -1,14 +1,18 @@
 <div align="center">
 
-# Nirbhay Singh Chauhan
+<br>
 
-### 🤖 Robotics & AI Engineering • 3rd Year
+# NIRBHAY SINGH CHAUHAN
 
-<p>
-  <a href="https://www.linkedin.com/in/nirbhaysingh-chauhan-19b103331">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### ROBOTICS & AI ENGINEERING · 3RD YEAR
+
+<br>
+
+<a href="https://www.linkedin.com/in/nirbhaysingh-chauhan-19b103331">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
 
 </div>
 
@@ -16,109 +20,100 @@
 
 <table>
 <tr>
-<td width="32%" valign="top">
 
-## 💫 About Me
+<td width="58%" valign="top">
 
-Hi, I'm **Nirbhay Singh Chauhan**, a third-year **Robotics and AI Engineering** student with a strong curiosity for technology and problem-solving.
+## PROFILE
 
-I enjoy working on things that genuinely interest me—especially when they challenge me to learn something new or build something meaningful.
+I'm **Nirbhay Singh Chauhan**, a third-year **Robotics and AI Engineering** student with a strong curiosity for technology and problem-solving.
+
+I enjoy working on things that genuinely interest me — especially when they challenge me to learn something new or build something meaningful.
 
 I believe my best work comes from **curiosity, experimentation, and the freedom to explore ideas that excite me.**
 
 </td>
 
-<td width="68%" valign="top">
+<td width="42%" valign="top">
 
-<img src="https://github-readme-stats.shion.dev/api?username=chauhanlegentyr-droid&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=chauhanlegentyr-droid&theme=chartreuse-dark&hide_border=true" width="49%"/>
+## CURRENT STATUS
 
-<br><br>
+**FIELD**
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chauhanlegentyr-droid&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhanlegentyr-droid&theme=github-compact&hide_border=true&area=true" width="49%"/>
+Robotics & AI Engineering
+
+**YEAR**
+
+Third Year
+
+**FOCUS**
+
+Robotics · AI · Software
+
+**APPROACH**
+
+Curiosity → Experiment → Learn → Build
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 💻 Tech Stack
+## ENGINEERING STACK
 
-<div align="center">
+### PROGRAMMING
 
-### Languages
+![C](https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-111827?style=flat-square&logo=csharp&logoColor=239120)
+![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6)
+![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=flat-square&logo=powershell&logoColor=5391FE)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### ROBOTICS & AI
 
-### Robotics & AI
+![ROS](https://img.shields.io/badge/ROS-111827?style=flat-square&logo=ros&logoColor=0A0FF9)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-111827?style=flat-square&logo=keras&logoColor=D00000)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111827?style=flat-square&logo=scikit-learn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=matplotlib&logoColor=11557C)
+![Plotly](https://img.shields.io/badge/Plotly-111827?style=flat-square&logo=plotly&logoColor=3F4F75)
 
-![ROS](https://img.shields.io/badge/ROS-0A0FF9?style=for-the-badge&logo=ros&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### SOFTWARE & DEVELOPMENT
 
-### Development
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF)
+![Apache](https://img.shields.io/badge/Apache-111827?style=flat-square&logo=apache&logoColor=D42029)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+### CLOUD & DATA
 
-### Cloud & Databases
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![Oracle](https://img.shields.io/badge/Oracle-111827?style=flat-square&logo=oracle&logoColor=F80000)
+![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1)
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=07405E)
+![Supabase](https://img.shields.io/badge/Supabase-111827?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=FFFFFF)
+![Render](https://img.shields.io/badge/Render-111827?style=flat-square&logo=render&logoColor=46E3B7)
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+### TOOLS & CREATIVE
 
-### Tools & Creative
-
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-
-</div>
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/chauhanlegentyr-droid?template=classic&config.timezone=Asia%2FCalcutta&config.twemoji=true&base.header=0&base.footer=0&base.metadata=0&base.indepth=false&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity=1&activity.limit=5&calendar=1&calendar.limit=2&habits=1&habits.from=200&habits.days=30&habits.facts=1&habits.charts=1&repositories=1&repositories.pinned=0&repositories.starred=0" width="100%">
-
-</div>
-
----
-
-## 📅 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhanlegentyr-droid&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area_color=238636&area=true&hide_border=true" width="100%">
-
-</div>
+![Blender](https://img.shields.io/badge/Blender-111827?style=flat-square&logo=blender&logoColor=F5792A)
+![Canva](https://img.shields.io/badge/Canva-111827?style=flat-square&logo=canva&logoColor=00C4CC)
+![Adobe](https://img.shields.io/badge/Adobe-111827?style=flat-square&logo=adobe&logoColor=FF0000)
+![Power BI](https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111827?style=flat-square&logo=raspberry-pi&logoColor=C51A4A)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-111827?style=flat-square&logo=nvidia&logoColor=76B900)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-111827?style=flat-square&logo=unrealengine&logoColor=FFFFFF)
 
 ---
 
@@ -127,17 +122,41 @@ I believe my best work comes from **curiosity, experimentation, and the freedom 
 
 <td width="50%" valign="top">
 
-## 📈 GitHub Stats
+## LANGUAGE PROFILE
 
-<img src="https://github-readme-stats.shion.dev/api?username=chauhanlegentyr-droid&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" width="100%">
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanlegentyr-droid&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" width="100%">
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🔥 Contribution Streak
+## HOW I WORK
 
-<img src="https://streak-stats.demolab.com/?user=chauhanlegentyr-droid&theme=chartreuse-dark&hide_border=true" width="100%">
+I don't particularly enjoy working on something simply because it's expected.
+
+I'm most productive when a problem is **interesting enough to make me curious**.
+
+That curiosity usually turns into:
+
+<br>
+
+**EXPLORE**
+
+↓
+
+**EXPERIMENT**
+
+↓
+
+**UNDERSTAND**
+
+↓
+
+**BUILD**
 
 </td>
 
@@ -146,11 +165,22 @@ I believe my best work comes from **curiosity, experimentation, and the freedom 
 
 ---
 
-## 🧠 Languages
+## TECHNOLOGY MAP
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chauhanlegentyr-droid&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10" width="60%">
+| AREA | TECHNOLOGIES |
+|:---|:---|
+| **Programming** | C · C# · C++ · Java · Python · JavaScript |
+| **Web** | HTML · CSS · React · Node.js |
+| **Robotics** | ROS · Raspberry Pi |
+| **AI / ML** | PyTorch · TensorFlow · Keras · Scikit-learn |
+| **Data** | NumPy · Pandas · Matplotlib · Plotly |
+| **Cloud** | AWS · Azure · Oracle · Vercel · Render |
+| **Database** | MySQL · SQLite · Supabase |
+| **Development** | Docker · GitHub · Apache |
+| **Creative** | Blender · Adobe · Canva · Power BI |
+| **Game / 3D** | Unreal Engine · Epic Games · Steam · Ubisoft |
 
 </div>
 
@@ -158,13 +188,22 @@ I believe my best work comes from **curiosity, experimentation, and the freedom 
 
 <div align="center">
 
-### 💭
+<br>
 
-**Curiosity → Experimentation → Learning → Building**
+## BUILD WHAT INTERESTS YOU.
 
-*I like working on things that genuinely interest me.*
+### Robotics & AI Engineering · Exploration · Experimentation
+
+<br>
+
+<a href="https://www.linkedin.com/in/nirbhaysingh-chauhan-19b103331">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-39D353?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
+</a>
+
+<br><br>
+
+<sub>Curiosity is usually where the interesting projects begin.</sub>
+
+<br><br>
 
 </div>
-
-<!-- Proudly created with GPRM -->
-
