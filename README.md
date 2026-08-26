@@ -1,10 +1,7 @@
 <div align="center"> <br>
 NIRBHAY SINGH CHAUHAN<br>
 ROBOTICS & AI ENGINEERING · 3RD YEAR
-<br><br> <img src="./assets/binary-portrait.png" width="100%" alt="Binary portrait of Nirbhay Singh Chauhan"> <br><br>
-01001001 01001110 01001001 01010100 01001001 01000001 01001100<br>
-01001001 01011010 01001001 01001110 01000111 00101110 00101110 00101110<br><br>
-
+<img src="./binary-portrait.png" width="400px" alt="Binary portrait of Nirbhay Singh Chauhan">
 > SYSTEM: NIRBHAY_SINGH_CHAUHAN<br>
 > FIELD: ROBOTICS + ARTIFICIAL INTELLIGENCE<br>
 > STATUS: BUILDING<br>
