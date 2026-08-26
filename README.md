@@ -124,11 +124,31 @@ Curiosity → Experiment → Learn → Build
 
 ## LANGUAGE PROFILE
 
-<div align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhanlegentyr-droid&layout=donut-vertical&theme=github_dark&hide_border=true&langs_count=8&count_private=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" width="100%">
+**C**
 
-</div>
+`████████████████████`
+
+**C++**
+
+`████████████████████`
+
+**Python**
+
+`████████████████████`
+
+**Java**
+
+`████████████████████`
+
+**JavaScript**
+
+`████████████████████`
+
+**HTML / CSS**
+
+`████████████████████`
 
 </td>
 
@@ -188,22 +208,14 @@ That curiosity usually turns into:
 
 <div align="center">
 
-<br>
+<br><br>
 
 ## BUILD WHAT INTERESTS YOU.
 
-### Robotics & AI Engineering · Exploration · Experimentation
-
 <br>
 
-<a href="https://www.linkedin.com/in/nirbhaysingh-chauhan-19b103331">
-<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-39D353?style=for-the-badge&logo=linkedin&logoColor=0D1117"/>
-</a>
+<i><font size="4">Curiosity is usually where the interesting projects begin.</font></i>
 
-<br><br>
-
-<sub>Curiosity is usually where the interesting projects begin.</sub>
-
-<br><br>
+<br><br><br>
 
 </div>
